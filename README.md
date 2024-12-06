@@ -1,0 +1,1 @@
+- Cú pháp message commit: "ten_nguoi_commit viec_da_lam"(cùng cú pháp cho dễ hiểu).
